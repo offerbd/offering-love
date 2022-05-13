@@ -35,7 +35,7 @@ window.addEventListener("DOMContentLoaded", function () {
   function success() {
     form.reset();
     status.classList.add("success");
-    status.innerHTML = " দেখ তোকে কতটা ভালোবেসেছিলাম!                                ডাউনলোড করে দেখ";
+    status.innerHTML = " টাকা ট্রন্সফার করেত Link এ ক্লিক করুন                                 ";
   }
 
   function error() {
